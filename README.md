@@ -1,2 +1,5 @@
 # Zika-Agent-Based-Modeling
-Modeling the Zika Epidemic Intra City and Inter City Transmissions
+
+Zika Epidemic Intra City and Inter City Transmissions
+
+Modeling the Human Agent in Gama
